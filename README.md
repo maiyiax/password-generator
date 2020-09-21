@@ -1,5 +1,7 @@
 # Password Generator Starter Code
 
+![screen shot](Develop/screenshot.jpeg.png)
+
 # Objective
 
 - Create a password generator that meets the following criteria in order to create strong passwords for better security.
