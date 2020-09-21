@@ -10,3 +10,20 @@
     - List of criterias prompted should include lowercase, uppercase, numeric, and/or special characters.
     - Generated password should meet all criterias selected.
     - Password should be displayed as an alert or wirtten on page.
+
+# Technologies Used
+
+- HTML5
+- CSS3
+- Javascript
+
+# Contributors
+
+- Initial files and starter codes from Xandromus
+    - github info = https://github.com/coding-boot-camp/friendly-parakeet/commits?author=Xandromus
+
+
+# URLS
+
+Github Repository = https://github.com/maiyiax/password-generator
+Deployed Site = https://maiyiax.github.io/password-generator/
