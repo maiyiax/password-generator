@@ -25,5 +25,5 @@
 
 # URLS
 
-Github Repository = https://github.com/maiyiax/password-generator
-Deployed Site = https://maiyiax.github.io/password-generator/
+- Github Repository = https://github.com/maiyiax/password-generator
+- Deployed Site = https://maiyiax.github.io/password-generator/
